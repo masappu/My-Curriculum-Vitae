@@ -69,7 +69,7 @@ iOSチームのリードエンジニアを務め、各メンバーの担当プ�
 | 使用技術 |  - 言語／UI: Swift、SwiftUI、Objective-C<br> - 非同期・状態管理: Swift Concurrency、Combine、RxSwift<br> - 周辺技術: StoreKit2、AVPlayer、Cocos2d-x、Firebase、CocoaPods、SwiftPM<br> - テスト: Quick/Nimble、XCTest<br> - アプリ配布: DeployGate(Apple Enterprise Program)、TestFlight<br> - CI/CD: Bitrise、Fastlane<br> - アーキテクチャ：Clean Architecture / MVVM、Coordinatorパターン<br> - ツール：GitHub、Jira、Figma、Slack - <br>AI: GitHub Copilot |
 
 ## 株式会社ハンモック
-新卒で株式会社ハンモックに入社し、1年11ヶ月ほど営業支援SaaSツールの提案営業に従事しておりました。<br>
+新卒で株式会社ハンモックに入社し、1年7ヶ月ほど営業支援SaaSツールの提案営業に従事しておりました。<br>
 <br>
 | 項目 | 内容 |
 |---|---|
