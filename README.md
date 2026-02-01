@@ -66,7 +66,7 @@ iOSチームのリードエンジニアを務め、各メンバーの担当プ�
 | 期間 | 2022年4月 ~ 2025年3月（3年間） |
 | 部署・所属 | 開発部 アプリG iOSチーム リードエンジニア |
 | 担当業務 |  - 「SHOWROOM」iOSアプリの開発業務全般（新機能開発、保守業務、CI/CDの運用など）<br> - パフォーマンス・安定性向上（クラッシュ対応、品質改善）<br> - iOSチームの技術的リード、設計レビュー・コードレビュー<br> - 技術選定およびアーキテクチャ改善<br> - 他職種（PM・バックエンド・デザイナー）との協業による仕様策定 |
-| 使用技術 |  - 言語／UI: Swift、SwiftUI、Objective-C<br> - 非同期・状態管理: Swift Concurrency、Combine、RxSwift<br> - 周辺技術: StoreKit2、AVPlayer、Cocos2d-x、Firebase、CocoaPods、SwiftPM<br> - テスト: Quick/Nimble、XCTest<br> - アプリ配布: DeployGate(Apple Enterprise Program)、TestFlight<br> - CI/CD: Bitrise、Fastlane<br> - アーキテクチャ：Clean Architecture / MVVM、Coordinatorパターン<br> - ツール：GitHub、Jira、Figma、Slack - <br>AI: GitHub Copilot |
+| 使用技術 |  - 言語／UI: Swift、SwiftUI、Objective-C<br> - 非同期・状態管理: Swift Concurrency、Combine、RxSwift<br> - 周辺技術: StoreKit2、AVPlayer、Cocos2d-x、Firebase、CocoaPods、SwiftPM<br> - テスト: Quick/Nimble、XCTest<br> - アプリ配布: DeployGate(Apple Enterprise Program)、TestFlight<br> - CI/CD: Bitrise、Fastlane<br> - アーキテクチャ：Clean Architecture / MVVM、Coordinatorパターン<br> - ツール：GitHub、Jira、Figma、Slack <br> - AI: GitHub Copilot |
 
 ## 株式会社ハンモック
 新卒で株式会社ハンモックに入社し、1年7ヶ月ほど営業支援SaaSツールの提案営業に従事しておりました。<br>
